@@ -9,9 +9,9 @@ namespace Capstone2TaskList
         #region Lists
         public static List<Task> taskList = new List<Task>
             {
-                new Task("Brandyn", "Eat ass", "07/30/2019", false),
-                new Task("Josh", "Mow the lawn", "07/30/2019", false),
-                new Task("Joe", "Brandyn is smrt", "07/30/2019", false)
+                new Task("Brandyn", "Finish the capstone", "07/30/2019", false),
+                new Task("Josh", "Finish the mock assessment", "07/30/2019", false),
+                new Task("Joe", "Turn in both the capstone and mock assessment", "07/30/2019", false)
 
             };
         
@@ -113,9 +113,6 @@ namespace Capstone2TaskList
         }
         public static void MarkChoice()
         {
-            Console.WriteLine("Which task would you like to mark as complete?");
-            Console.WriteLine();
-
             int taskCount = 1;
             foreach (Task taskInfo in Task.taskList)
             {
@@ -124,6 +121,8 @@ namespace Capstone2TaskList
                 Console.WriteLine();
             }
 
+            Console.WriteLine("Which task would you like to mark as complete?");
+            Console.WriteLine();
 
             int userInput = int.Parse(Console.ReadLine());
             userInput--;
@@ -139,11 +138,6 @@ namespace Capstone2TaskList
 
             }
         }
-        
-
-        
-
-
         #endregion
     }
 }

@@ -22,7 +22,6 @@ namespace Capstone2TaskList
                     int taskCount = 1;
                     foreach (Task taskInfo in Task.taskList)
                     {
-                        
                         taskInfo.PrintTaskInfo(taskCount);
                         taskCount++;
                         Console.WriteLine();
@@ -73,12 +72,8 @@ namespace Capstone2TaskList
                 else if(menuChoice == 5)
                 {
                     Console.WriteLine("Have a great day");
+                    go = false;
                 }
-                else
-                {
-
-                }
-
             }
         }
     }

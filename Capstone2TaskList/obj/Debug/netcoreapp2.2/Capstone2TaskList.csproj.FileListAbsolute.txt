@@ -1,0 +1,11 @@
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\netcoreapp2.2\Capstone2TaskList.deps.json
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\netcoreapp2.2\Capstone2TaskList.runtimeconfig.json
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\netcoreapp2.2\Capstone2TaskList.runtimeconfig.dev.json
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\netcoreapp2.2\Capstone2TaskList.dll
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\bin\Debug\netcoreapp2.2\Capstone2TaskList.pdb
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\netcoreapp2.2\Capstone2TaskList.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\netcoreapp2.2\Capstone2TaskList.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\netcoreapp2.2\Capstone2TaskList.AssemblyInfoInputs.cache
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\netcoreapp2.2\Capstone2TaskList.AssemblyInfo.cs
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\netcoreapp2.2\Capstone2TaskList.dll
+C:\Users\tweed\source\repos\Capstone2TaskList\Capstone2TaskList\obj\Debug\netcoreapp2.2\Capstone2TaskList.pdb

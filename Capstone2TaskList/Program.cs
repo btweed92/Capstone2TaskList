@@ -74,6 +74,11 @@ namespace Capstone2TaskList
                     Console.WriteLine("Have a great day");
                     go = false;
                 }
+                else
+                {
+                    Console.WriteLine("Please enter a valid option!");
+                    Console.WriteLine("You are being returned to the main menu.");
+                }
             }
         }
     }
